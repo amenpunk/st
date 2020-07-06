@@ -1,0 +1,87 @@
+! special
+*.font:    FiraCode SemiBold:pixelsize=12:antialias=true:autohint=true;
+*.alpha : 1
+!
+!*.foreground:   #ffffff
+!*.background:   #171717
+!*.cursorColor:  #c5c8c6
+!
+!! black
+!*.color0:       #171717
+!*.color8:       #373b41
+!
+!! red
+!*.color1:       #a54242
+!*.color9:       #cc6666
+!
+!! green
+!*.color2:       #8c9440
+!*.color10:      #b5bd68
+!
+!! yellow
+!*.color3:       #de935f
+!*.color11:      #f0c674
+!
+!! blue
+!*.color4:       #5f819d
+!*.color12:      #81a2be
+!
+!! magenta
+!*.color5:       #85678f
+!*.color13:      #b294bb
+!
+!! cyan
+!*.color6:       #5e8d87
+!*.color14:      #8abeb7
+!
+!! white
+!*.color7:       #707880
+!*.color15:      #c5c8c6
+!
+! Generated with :
+! XRDB2Xreources.py
+!
+!
+! Generated with :
+! XRDB2Xreources.py
+!
+*.foreground:  #ffffff
+*.background:  #171717
+*.cursorColor: #bbbbbb
+!
+! Black
+*.color0:      #171717
+*.color8:      #505354
+!
+! Red
+*.color1:      #f92672
+*.color9:      #ff669d
+!
+! Green
+*.color2:      #a6e22e
+*.color10:     #beed5f
+!
+! Yellow
+*.color3:      #fd971f
+*.color11:     #e6db74
+!
+! Blue
+*.color4:      #66d9ef
+*.color12:     #66d9ef
+!
+! Magenta
+*.color5:      #9e6ffe
+*.color13:     #9e6ffe
+!
+! Cyan
+*.color6:      #5e7175
+*.color14:     #a3babf
+!
+! White
+*.color7:      #ccccc6
+*.color15:     #f8f8f2
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:
